@@ -8,7 +8,7 @@ public class SocialGWT implements EntryPoint {
 
 	@Override
 	public void onModuleLoad() {
-		RootPanel.get().add(new Label("abc"));
+		RootPanel.get().add(new Label("Hello World"));
 
 	}
 
